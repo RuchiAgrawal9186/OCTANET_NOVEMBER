@@ -1,5 +1,4 @@
 
-
 let getInput = document.querySelector("#todotask")
 let addbtn = document.querySelector(".add")
 let taskText = addbtn.innerText
